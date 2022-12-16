@@ -1,1 +1,4 @@
-# About-Me
+- 👋 Hi, I’m jagtap kishor
+- 👀 I’m interested in Angular Develeoper
+- 🌱 I’m currently learning Angular12
+- 📫 How to reach me mail jagtapkishor104@gmail.com
